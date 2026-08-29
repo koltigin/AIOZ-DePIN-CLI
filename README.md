@@ -4,8 +4,8 @@ Community installation guide for AIOZ DePIN CLI v1.2.6 on Ubuntu / VPS.
 
 ## Languages
 
-- [Türkçe](docs/TR.md)
-- [English](docs/EN.md)
+- [Türkçe](TR.md)
+- [English](EN.md)
 
 ## Official project
 
